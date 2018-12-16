@@ -1,0 +1,63 @@
+{
+	"token":"NTIxNDQxNjM0MzQxMjI0NDYx.Du8eTw.o3Pl5jkyXP_9I1Rll0GytokFmAI",
+	"roboi_face":"https://media.discordapp.net/attachments/521446754990948383/521453257227370515/YEET.png",
+	"dragon": {
+		"color": {
+			"chromatic": {
+			"white": "White like a snowy tundra and just as deadly, this dragon's scales are hauntingly beautiful. ",
+			"red": "This dragon's scales are smoothe, slick and very red. It's almost liquid like in sheen and resembles highly oxygenated blood. ",
+			"orange": "This dragon's scales are a warm orange. It reminds you of a warm sunrise despite the cracked skin. ",
+			"yellow": "Bright as a buttercup and just as yellow, this dragon's scales are satin smooth to the touch. ",
+			"green": "Green with envy may just be a saying but you can certainly envision it with this dragon's scales. Such a brilliant emerald colour must be envied by its friends. ",
+			"blue": "Blue like the ocean on a hot summer's day and rippled to boot. This dragon's scales are a sight to behold. ",
+			"indigo": "This dragon is outright regal in appearance thanks to its Indigo scales. ",
+			"violet": "The scales are hard and raised, almost spiked and violet in colour. ",
+			"black": "The scales are as black as the night itself and inky in appearance. "
+			},
+			"metallic": {
+			"silver": "Shimmering silver, it'd be hard to tell if this dragon was really there among snow and ice, something about the shine would just bend your eyes away from them. ",
+			"gold": "The golden sheen of this dragon's scales almost seems to radiate heat, as though left in a forge. ",
+			"copper": "These scales are jagged, and almost feel charged with something, as though someone froze lightening and turned it to copper. ",
+			"brass": "These brass scales have a somehow calming glow, like the heat of a fire within a hearth, all the edges are softly rounded. ",
+			"iron": "These scales look like thin iron sheets, each scale almost seems to move more than normal, like a metalic fabric. ",
+			"aluminum": "The scales of this dragon are hard to distinguish, almost as though this is a statue of a dragon made from solid aluminum. ",
+			"bronze": "Every bronze scale looks througholy polished, and each ends in a sharp, almost deliberate, point. ",
+			"mercury": "This dragon has an almost liquid look to their movements, helped by their nearly mercury looking scales. ",
+			"cobalt": "These scales are a a deep blue, like pure cobolt, with each of these scales being shaped like a oval leaf. "
+			}
+		},
+		"breath": {
+			"death": "This dragon breathes a miasma of poison. Concentrated doses can melt the flesh from bone. Weaker doses cause a violent reaction from the body as it tries to expel the poison. ",
+			"life": "This dragon breathes the refreshing energy of life itself. This breath can heal wounds or speed up evolution of creatures affected. ",
+			"time": "This dragon's breath affects time itself. It can slow, speed up, or even reverse time to a limited extent. Anything touched by it is affected. ",
+			"blade": "This dragon's breath is almost pure steel, like a sea of thousands of tiny blades. It can be used to infuse something with more strength or create a wall of steel. ",
+			"lightning": "This dragon's breath weapon is accompanied by a powerful booming as electricity arcs along its path, shocking everything it touches. ",
+			"space": "This dragon's breath looks as if a galaxy were being born from it, with stars and constellations popping into and out of existence. Anything caught in this breath will experience the void, or the birth of a star. ",
+			"magic": "Huh? That's... not right. Dragons shouldn't be able to access that kind of power. How is this dragon's breath arcane? Every breath is different as if it were creating a spell matrix in its throat sac. ",
+			"fire": "Classically, this dragon can breathe fire. It can shoot balls of fire, a stream of flames, or even bursts of superheated air. ",
+			"water": "This dragon's breath weapon is water. It can breathe all three of waters states as it pleases; a heavy vapor, a stream of water, or even chunks of ice. ",
+			"air": "This dragon's breath weapon is very plain. It expels powerful gusts of wind from its mouth as it pleases, capable of creating storms or vortices. ",
+			"earth": "This dragon doesn't seem to have a breath weapon at first glance. It eats rock and dirt and stores them in its throat sac to be expelled at a later date. "
+		},
+		"alignment": {
+			"LG": "Order is what they think is the best way to help, a healthy douse of stability never hurt. Of course they might be a tad out-of-touch and the stability they provide might be stagnating. ",
+			"NG": "Helping others is something they like to do, not necessarily one to do it on full blast like some might. There is no currency in being cruel to them. ",
+			"CG": "They will help others, whatever the problem may be. Even if sometimes it's not entirely wanted, needed, or legal. They're heart is in the right place at least. ",
+			"LN": "Order above all else, law is of great importance. Frank practicality is the only thing they are concerned with. ",
+			"TN": "All is relative, perhaps they view things from every side, perhaps they're stuck viewing from only their perspective. They don't have a particular care for what others do, as long as it doesn't interfere with their life. ",
+			"CN": "They do as they please, the world is their oyster and there's no need to do much they don't like. They could lean altruistic or malevolent, but are as they are either way. ",
+			"LE": "Neat and tidy, nicely organized, everything is just a certain way, and all to their own benefit. Why have order if it doesn't favor the one in power, after all? ",
+			"NE": "They won't kill you, yet. Power is of great importance, so why not amass more, and you only need not stand in their way as they grow stronger. ",
+			"CE": "What great fun it is to be carelessly destructive! A destroyed village, a town of terrified followers trying to appease them, but only to be killed for no reason at all, aside from the enjoyment gained from watching them squirm. "
+		},
+		"size": {
+			"smol": "This dragon is small. ",
+			"medsmol": " This dragon is moderately small. ",
+			"med": "This dragon is moderately sized. ",
+			"medlrg": "This dragon is moderately large. ",
+			"large": "This dragon is large. ",
+			"vlarge": "This dragon is very large. ",
+			"behemoth": "This dragon is a behemoth. They're the size of a fortress. "
+		}
+	}
+}

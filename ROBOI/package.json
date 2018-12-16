@@ -1,0 +1,15 @@
+{
+  "name": "roboi",
+  "version": "0.0.1",
+  "description": "Serival bot",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
